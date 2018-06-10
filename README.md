@@ -1,24 +1,4 @@
-# README
+From https://rubyplus.com/articles/4241-Tagging-from-Scratch-in-Rails-5
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+also look and here
+https://rubyplus.com/articles/4231-Tagging-using-Acts-as-Taggable-On-in-Rails-5
